@@ -7,4 +7,4 @@
 * Local에서 Commit
 * Remote로 Push
 ### 를 연습하기 위해 만들어졌습니다.  
-20001231 Lee Seong Min
+001011 Yang Yu Jun
