@@ -1,4 +1,4 @@
 # Control_Engineering
 20001231 Lee Seong Min
  
-## 수정
+remote로 colab에서 수정하기
